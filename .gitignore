@@ -1,0 +1,7 @@
+UnityProject/Library/
+UnityProject/Temp/
+UnityProject/Logs/
+UnityProject/Obj/
+UnityProject/UserSettings/
+__pycache__/
+.env
